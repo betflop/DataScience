@@ -1,0 +1,8 @@
+Демо на heroku
+https://nameless-reaches-73659.herokuapp.com/
+
+Ссылка на Github
+https://github.com/pavlyk/DeepLearningSchool
+
+Демо видео
+https://drive.google.com/file/d/1D-tfpG83CHO56bHxz49NaBXbtKiyk0Db/view?usp=sharing
